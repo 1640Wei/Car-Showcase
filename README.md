@@ -11,7 +11,36 @@ Hello, I am Wei. 🚗
 - **Typescript**: Typescript programming language.  
 
 ### Project Structure:：
-- `D.ts`：
+
+- app
+  - `globals.css`:
+  - `layout.tsx`:
+  -  `page.tsx`:
+
+- components
+  - `CarCard.tsx`:
+  - `CarDetails.tsx`:
+  - `CustomButton.tsx`:
+  - `CustomFilter.tsx`:
+  - `Footer.tsx`:
+  - `Hero.tsx`:
+  - `Navbar.tsx`:
+  - `SearchManufacturer.tsx`:
+  - `Searchbar.tsx`:
+  - `ShowMore.tsx`:
+  - `index.ts`:
+
+- contants
+  - `index.ts`:
+    
+- public:
+  
+- types
+  - `index.ts`:
+    
+- utils
+  -`index.ts`:
+  
 
 ### Example:
 
